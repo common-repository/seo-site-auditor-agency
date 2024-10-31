@@ -1,0 +1,1136 @@
+# Copyright (C) 2020 Green Jay Media
+# This file is distributed under the same license as the WP Site Auditor plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Site Auditor 1.1.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/core\n"
+"POT-Creation-Date: 2022-05-11 02:13+0000\n"
+"PO-Revision-Date: 2022-05-10 20:15-0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0.1\n"
+
+#: frontend/checks/found-apple-icon.php:31
+msgid "  Apple icon found "
+msgstr "  Icono de Apple encontrado "
+
+#: frontend/checks/exact-keyword-to-alt-tag.php:30
+msgid "  Exact keyword found in an alt tag"
+msgstr "  Palabra clave exacta encontrada en una etiqueta alt"
+
+#: frontend/checks/exact-keyword-found-the-first100words.php:44
+msgid "  Exact keyword was not found in the first 100 words"
+msgstr "  La palabra clave exacta no se encontró en las primeras 100 palabras"
+
+#: frontend/checks/found-keyword-in-domain.php:27
+msgid "  If possible, add the keyword in the url."
+msgstr "  Si es posible, añade la palabra clave en la URL."
+
+#: frontend/checks/exact-keyword-found-the-first100words.php:40
+msgid "  Include keyword in the first 100 words of page."
+msgstr "  Incluye la palabra clave en las primeras 100 palabras de la página."
+
+#: frontend/checks/keyword-begins-title.php:34
+msgid "  Keyword begins title."
+msgstr "  La palabra clave está al inicio del título."
+
+#: frontend/checks/found-viewport-meta-tag.php:22
+msgid "  Meta viewport tags not found."
+msgstr "  Etiquetas meta viewport no encontradas."
+
+#: frontend/checks/robots-txt-file-found.php:29
+msgid "  robots.txt file found"
+msgstr " Se encontró el archivo robots.txt"
+
+#: frontend/checks/every-image-needs-alt-tag.php:48
+msgid "  Some img tag does not have alt text"
+msgstr "  Algunas etiquetas img no tienen texto alternativo"
+
+#: frontend/checks/exact-keyword-used-2-times.php:29
+msgid "  Use the exact keyword more than 2-4 times"
+msgstr " Usa la palabra clave exacta más de 2-4 veces"
+
+#: frontend/checks/favicon-found.php:16
+msgid " Add a favicon to the header of page."
+msgstr " Añade un favicon a la cabecera de la página."
+
+#: frontend/checks/found-apple-icon.php:17
+msgid " Add an apple icon to header of page."
+msgstr " Añade un icono de apple en la cabecera de la página."
+
+#: frontend/checks/found-heading-tags-h1h2.php:22
+msgid " Add heading tags to page, using keyword: H1 & H2."
+msgstr ""
+" Añade etiquetas de encabezamiento a la página, utilizando las palabras "
+"clave: H1 y H2."
+
+#: frontend/checks/find-sitemap-link.php:24
+msgid " Add link to an xml sitemap."
+msgstr " Añadir enlace a un mapa del sitio xml."
+
+#: frontend/checks/should-have1000-words.php:31
+msgid " Add more words to the page.  1,000 words or more."
+msgstr " Añade más palabras a la página.  1,000 palabras o más."
+
+#: frontend/checks/robots-txt-file-found.php:15
+msgid " Add robots.txt file to your root directory."
+msgstr " Añade el archivo robots.txt a tu directorio raíz."
+
+#: frontend/checks/found-schemaorg-markup.php:29
+msgid " Add structured data (schema.org) to page."
+msgstr " Añadir datos estructurados (schema.org) a la página."
+
+#: frontend/checks/bold-italicize-underline-exact-keyword.php:47
+msgid ""
+" Add your keyword and similar keywords as bolded, italicized, or underlined "
+"text."
+msgstr ""
+" Añade tu palabra clave y otras similares como texto en negrita, cursiva o "
+"subrayado."
+
+#: frontend/checks/every-image-needs-alt-tag.php:44
+msgid ""
+" All images need keywords in the alt text.  Add your targeted keyword to at "
+"least 1 image and similar keywords to other images."
+msgstr ""
+" Todas las imágenes necesitan palabras clave en el texto alternativo.  Añade "
+"tu palabra clave a al menos una imagen y palabras clave similares a otras "
+"imágenes."
+
+#: frontend/checks/no-flash-found.php:23
+msgid " Does not contain flash elements"
+msgstr " No contiene elementos flash"
+
+#: frontend/checks/domain-15-characters-length.php:44
+msgid " Domain contains < 20 characters in length "
+msgstr " El dominio contiene menos de 20 caracteres "
+
+#: frontend/checks/domain-15-characters-length.php:53
+msgid " Domain contains > 20 characters in length"
+msgstr " El dominio contiene más de 20 caracteres"
+
+#: frontend/checks/this-domain-expires-in-days.php:28
+#: frontend/checks/this-domain-expires-in-days.php:32
+msgid " Domain expiration date not found"
+msgstr " No se encontró la fecha de caducidad del dominio"
+
+#: frontend/checks/this-domain-expires-in-days.php:8
+msgid " Domain expires in less than 6 months"
+msgstr " El dominio expira en menos de 6 meses"
+
+#: frontend/checks/server-uses-compression.php:55
+msgid " Enable Gzip compression on your server, for better load speed."
+msgstr ""
+" Habilita la compresión GZIP en tu servidor para mejor velocidad de carga."
+
+#: frontend/checks/every-image-needs-alt-tag.php:38
+msgid " Every tag img has alt attribute"
+msgstr " Cada etiqueta img tiene el atributo alt"
+
+#: frontend/checks/exact-keyword-found-the-first100words.php:34
+#, php-format
+msgid " Exact keyword found in the first 100 words, %d times"
+msgstr ""
+"  La palabra clave exacta se encontró en las primeras 100 palabras, %d veces"
+
+#: frontend/checks/exact-keyWord-in-h1h2.php:41
+#, php-format
+msgid " Exact Keyword in H1: %d"
+msgstr " Palabra clave exacta encontrada en H1: %d"
+
+#: frontend/checks/exact-keyWord-in-h1h2.php:62
+#, php-format
+msgid " Exact Keyword in H2: %d"
+msgstr " Palabra clave exacta encontrada en H2: %d"
+
+#: frontend/checks/exact-keyword-to-alt-tag.php:20
+msgid " Exact keyword was not found on an alt tag"
+msgstr " No se ha encontrado la palabra clave exacta en una etiqueta alt"
+
+#: frontend/checks/bold-italicize-underline-exact-keyword.php:51
+msgid " Exact keywords were not found bolded, italicized, or underlined"
+msgstr ""
+" Las palabras clave exactas no se encontraron en negrita, cursiva o "
+"subrayadas"
+
+#: frontend/checks/favicon-found.php:30
+msgid " Favicon Found."
+msgstr " Favicon encontrado."
+
+#: frontend/checks/favicon-found.php:20
+msgid " Favicon not Found."
+msgstr " Favicon no encontrado."
+
+#: frontend/checks/no-flash-found.php:35
+msgid " Flash found"
+msgstr " Flash encontrado"
+
+#: frontend/checks/found-heading-tags-h1h2.php:38
+#, php-format
+msgid " Found %d heading tags: H1 & H2"
+msgstr " Se encontraron %d etiquetas: H1 & H2"
+
+#: frontend/checks/found-keyword-in-domain.php:19
+msgid " Found keyword in domain."
+msgstr " Palabra clave encontrada en el dominio."
+
+#: frontend/checks/found-schemaorg-markup.php:23
+msgid " Found schema.org markup."
+msgstr " Marcado schema.org encontrado."
+
+#: frontend/checks/found-heading-tags-h1h2.php:26
+msgid " Heading tags not found: H1 & H2"
+msgstr " Etiquetas de encabezamiento no encontradas: H1 Y H2"
+
+#: frontend/checks/html-is-not-w3c-validated.php:44
+msgid " HTML is not W3C validated"
+msgstr " El HTML no está validado por el W3C"
+
+#: frontend/checks/html-is-not-w3c-validated.php:55
+msgid " HTML is W3C validated"
+msgstr " El HTML está validado por el W3C"
+
+#: frontend/checks/keyword-begins-title.php:19
+msgid " Include keyword at beginning of title."
+msgstr " Incluye la palabra clave al principio del título."
+
+#: frontend/checks/exact-keyword-an-image-filename.php:17
+msgid ""
+" Include keyword in an image file name, using dashes between words.  "
+"Example: image-file-name.jpg"
+msgstr ""
+" Incluye la palabra clave en el nombre de un archivo de imagen, utilizando "
+"guiones entre las palabras.  Ejemplo: nombre-archivo-imagen.jpg"
+
+#: frontend/checks/exact-keyword-to-alt-tag.php:16
+msgid " Include keyword in the alt tag of an image."
+msgstr " Incluir la palabra clave en la etiqueta alt de una imagen."
+
+#: frontend/checks/exact-keyWord-in-h1h2.php:47
+msgid " Include keyword in the h1 tags, but do not duplicate."
+msgstr " Incluye la palabra clave en las etiquetas h1, pero no las dupliques."
+
+#: frontend/checks/exact-keyWord-in-h1h2.php:68
+msgid " Include keyword in the h2 tags, but do not duplicate."
+msgstr " Incluye la palabra clave en las etiquetas h2, pero no las dupliques."
+
+#: frontend/checks/keyword-found-in-title.php:12
+msgid " Include keyword in title, preferably at the beginning."
+msgstr " Incluie la palabra clave en el título, preferiblemente al principio."
+
+#: frontend/checks/remove-inlinecss.php:18
+msgid " inline found"
+msgstr " inline encontrado"
+
+#: frontend/checks/keyword-found-in-title.php:26
+msgid " Keyword found in title."
+msgstr " La palabra clave está en el título."
+
+#: frontend/checks/keyword-found-in-title.php:16
+msgid " Keyword not found in title."
+msgstr " La palabra clave no está en el título."
+
+#: frontend/checks/exact-keyWord-in-h1h2.php:51
+msgid " Keyword was not found on the h1 tags."
+msgstr " La palabra clave no se encontró en la etiqueta h1."
+
+#: frontend/checks/exact-keyWord-in-h1h2.php:72
+msgid " Keyword was not found on the h2 tags."
+msgstr " La palabra clave no se encontró en las etiquetas h2."
+
+#: frontend/checks/find-sitemap-link.php:38
+msgid " Link to a sitemap.xml found."
+msgstr " Enlace a un sitemap.xml encontrado."
+
+#: frontend/checks/find-sitemap-link.php:28
+msgid " Link to a sitemap.xml was not found."
+msgstr " Enlace a un sitemap.xml no encontrado."
+
+#: frontend/checks/found-viewport-meta-tag.php:18
+msgid " Meta viewport tag needs to be added to header."
+msgstr " Es necesario añadir la etiqueta meta viewport a la cabecera."
+
+#: frontend/checks/found-viewport-meta-tag.php:32
+msgid " Meta viewport tags found."
+msgstr " Etiquetas meta viewport encontradas."
+
+#: frontend/checks/remove-inlinecss.php:14
+msgid " Move inline css to a stylesheet."
+msgstr " Mueve el CSS inline a esta hoja de estilos."
+
+#: frontend/checks/moz-domain-authority25.php:26
+msgid " Moz Domain Authority Missing."
+msgstr " Falta la Autoridad de Dominio de Moz."
+
+#: frontend/checks/found-apple-icon.php:21
+msgid " No apple icon found"
+msgstr " Icono de Apple no encontrado"
+
+#: frontend/checks/remove-inlinecss.php:28
+msgid " No inline css found. "
+msgstr " No se ha encontrado ningún css inline. "
+
+#: frontend/checks/exact-keyword-an-image-filename.php:21
+msgid " Not found exact keyword in an image file name"
+msgstr ""
+" No se ha encontrado la palabra clave exacta en el nombre de un archivo de "
+"imagen"
+
+#: frontend/checks/exact-keyword-used-2-times.php:44
+msgid " Only use exact keyword 2-4 times"
+msgstr " Usa la palabra clave exacta de 2 a 4 veces solamente"
+
+#: frontend/checks/robots-txt-file-found.php:19
+msgid " robots.txt file not found"
+msgstr " No se encontró el archivo robots.txt"
+
+#: frontend/checks/found-schemaorg-markup.php:33
+msgid " Schema.org markup not found."
+msgstr " Marcado Schema.org no encontrado."
+
+#: frontend/checks/validatesite-accessible-via-https.php:21
+msgid " Site is accessible via https (SSL)."
+msgstr " El sitio es accesible vía https (SSL)."
+
+#: frontend/checks/validatesite-accessible-via-https.php:31
+msgid " Site is not accessible via https (SSL)."
+msgstr " El sitio no es accesible vía HTTPS (SSL)"
+
+#: frontend/checks/html-ratio-is-too-low25.php:25
+#, php-format
+msgid " Text to HTML ratio is < %d%%"
+msgstr "  La relación entre el texto y HTML es < %d%%"
+
+#: frontend/checks/html-ratio-is-too-low25.php:35
+msgid " Text to HTML ratio is excellent."
+msgstr "  La relación entre el texto y el HTML es excelente."
+
+#: frontend/checks/found-keyword-in-domain.php:31
+msgid " the exact word was not found in the domain."
+msgstr " la palabra exacta no se encontró en el dominio."
+
+#: frontend/checks/keyword-begins-title.php:23
+msgid " The title does not begin with the keyword."
+msgstr " El título no comienza con la palabra clave."
+
+#: frontend/checks/no-duplicate-heading-tags.php:61
+msgid " There are no duplicate heading tags"
+msgstr " No hay etiquetas de encabezado duplicadas"
+
+#: frontend/checks/this-domain-expires-in-days.php:22
+#, php-format
+msgid " This domain expires in %s."
+msgstr " Este dominio expira el %s."
+
+#: frontend/checks/this-domain-expires-in-days.php:12
+#, php-format
+msgid " This domain expires in less than 6 months: %s."
+msgstr " Este dominio expira en menos de 6 meses: %s."
+
+#: frontend/checks/this-domain-is-years-old.php:12
+#, php-format
+msgid " This domain is %s old"
+msgstr " La edad del dominio es %s"
+
+#: frontend/checks/this-domain-is-years-old.php:22
+msgid " This domain is only missing old"
+msgstr " A este dominio sólo le falta el antiguo"
+
+#: frontend/checks/should-have1000-words.php:35
+#, php-format
+msgid " This page has %d words, less than 1,000 words"
+msgstr " Esta página tiene %d palabras, menos de 1,000 palabras"
+
+#: frontend/checks/should-have1000-words.php:26
+#, php-format
+msgid " This page has %d words, more than 1,000 words"
+msgstr " Esta página tiene %d palabras, más de 1,000 palabras"
+
+#: frontend/checks/url-is-seo-friendly.php:50
+msgid " URL is not SEO friendly."
+msgstr " La URL no es adecuada para SEO."
+
+#: frontend/checks/url-is-seo-friendly.php:46
+msgid ""
+" URL is not SEO friendly. For best seo results, only use letters or dashes "
+"in your url when possible - https://www.example.com/like-this/"
+msgstr ""
+" La URL es adecuada para SEO. Para mejores resultados, solo usa letras o "
+"guiones en tu URL cuando sea posible - https://www.ejemplo.com/como-esto/"
+
+#: frontend/checks/exact-keyword-used-2-times.php:33
+msgid " Use the exact keyword more than 2-4 times"
+msgstr " Usa la palabra clave exacta más de 2-4 veces"
+
+#: frontend/checks/found31-links-unique-domains.php:24
+msgid " You should have at least 3 backlinks."
+msgstr " Deberías tener al menos 3 backlinks."
+
+#: frontend/checks/moz-this-page-has3outbound-links.php:23
+msgid " You should have at least 3 dofollow backlinks."
+msgstr " Deberías tener al menos 3 links dofollow."
+
+#: frontend/check.php:89 frontend/check.php:94
+msgid "%d days"
+msgstr "%d días"
+
+#: frontend/check.php:91 frontend/check.php:96
+#, php-format
+msgid "%d years"
+msgstr "%d años"
+
+#: frontend/check.php:73 frontend/check.php:74
+msgid "0"
+msgstr ""
+
+#: views/welcome-page-content.php:20
+msgid ""
+"<a href=\"https://greenjaymedia.com/wp-site-auditor/change-form-design-wp-"
+"site-auditor/\" target=\"_blank\">Find out how to change form designs</a>"
+msgstr ""
+"<a href=\"https://greenjaymedia.com/wp-site-auditor/change-form-design-wp-"
+"site-auditor/\" target=\"_blank\">Descubre cómo cambiar los diseños del "
+"formulario.</a>"
+
+#: views/welcome-page-content.php:21
+msgid ""
+"<a href=\"https://greenjaymedia.com/wp-site-auditor/why-emails-are-not-"
+"sending/\" target=\"_blank\">Why are emails not sending?</a>"
+msgstr ""
+"<a href=\"https://greenjaymedia.com/wp-site-auditor/why-emails-are-not-"
+"sending/\" target=\"_blank\">¿Por qué no se envían los correos?</a>"
+
+#: views/welcome-page-content.php:27
+msgid ""
+"<h3>Go Premium</h3><p>White Label Reports<br>You can save all the site audit "
+"submissions and contact the users later<br>No powered-by logo<br/>You can "
+"generate leads for your business<br/>You can view the submissions, filter by "
+"status, and contact each user<br/>You can export the submissions to a CSV<br/"
+">You can import the leads into your email list/newsletter<br/>Your users can "
+"view the site audit results on your website after submitting the form<br/"
+">And more.</p><a href=\"%s\" class=\"button button-primary\">%s</a> - <a "
+"href=\"%s\" class=\"button\" target=\"_blank\">Need help? Contact us</a></"
+"p><p>Try the plugin without worries.</p>"
+msgstr ""
+"<h3>Hazte Premium</h3><p>Informes de White Label<br>Puedes guardar todos los "
+"envíos de inspección de sitio y contactar a los usuarios después.<br>No hay "
+"logotipo de \"Desarrollado por\".<br/>Puedes generar prospectos para tu "
+"negocio.<br/>Puedes ver los envíos, filtrar por estado, y contactar a cada "
+"usuario.<br/>Puedes exportar los envíos a un CSV.<br/>Puedes importar los "
+"envíos a tu lista de correos/boletín.<br/>Tus usuarios pueden ver los "
+"resultados de la inspección del sitio en tu sitio web luego de rellenar el "
+"formulario.<br/>Y más.</p><a href=\"%s\" class=\"button button-primary\">%s</"
+"a> - <a href=\"%s\" class=\"button\" target=\"_blank\">¿Necesitas ayuda? "
+"Contáctanos.</a></p><p>Prueba el plugin sin problemas.</p>"
+
+#: views/backend/metabox.php:115
+msgid "<p>Site audits not found.</p>"
+msgstr "<p>No se encontraron inspecciones del sitio.</p>"
+
+#: inc/site-audit-shortcode.php:21
+msgid ""
+"Attention administrator: You need to complete the setup on the <a href=\"%s"
+"\" target=\"_blank\">settings page</a>. The plugin wont work properly "
+"without those settings."
+msgstr ""
+"Atención administrador: Necesitas completar la configuración en la <a href="
+"\"%s\" target=\"_blank\">página de ajustes</a>. El plugin no funcionará "
+"adecuadamente sin esos ajustes."
+
+#: inc/site-audit-result.php:92
+msgid "Audit results not found"
+msgstr "No se encontraron resultados de la inspección"
+
+#: frontend/checks/how-fast-it-loaded.php:45
+msgid "Can not evaluate the speed of this site"
+msgstr "No se puede evaluar la velocidad de este sitio"
+
+#: frontend/checks/how-fast-it-loaded.php:41
+msgid "Can not evaluate the speed of this site."
+msgstr "No se puede evaluar la velocidad de este sitio."
+
+#: frontend/checks/how-many-assets-were-loaded.php:49
+#: frontend/checks/how-many-assets-were-loaded.php:61
+msgid "Can not get the number of assets"
+msgstr "No se puede obtener el número de activos"
+
+#: frontend/checks/how-many-assets-were-loaded.php:45
+#: frontend/checks/how-many-assets-were-loaded.php:57
+msgid "Can not get the number of assets."
+msgstr "No se puede obtener el número de activos."
+
+#: views/welcome-page-content.php:9
+msgid ""
+"Check the plugin settings. <a href=\"%s\" target=\"_blank\" class=\"button"
+"\">Open settings page</a>"
+msgstr ""
+"Revisa los ajustes del plugin. <a href=\"%s\" target=\"_blank\" class="
+"\"button\">Abrir la página de ajustes.</a>"
+
+#: frontend/checks/find-sitemap-link.php:8
+msgid "CODE ANALYSIS"
+msgstr "ANÁLISIS DE CÓDIGO"
+
+#: frontend/checks/exact-keyword-used-2-times.php:8
+msgid "COPY ANALYSIS"
+msgstr "COPIAR ANÁLISIS"
+
+#: frontend/checks/moz-this-page-has3outbound-links.php:10
+msgid "DoFollow Backlinks"
+msgstr "Enlaces DoFollow"
+
+#: frontend/checks/domain-15-characters-length.php:19
+msgid "DOMAIN ANALYSIS"
+msgstr "ANÁLISIS DEL DOMINIO"
+
+#: frontend/checks/moz-Page-authority26.php:17
+msgid "Domain Authority"
+msgstr "Autoridad del Dominio"
+
+#: backend/options.php:118
+msgid "Dont show the report after submission?"
+msgstr "¿No mostrar el reporte luego del envío?"
+
+#: views/backend/metabox.php:95
+#: views/frontend/site-audit-shortcode-views.php:34
+msgid "Email"
+msgstr "Correo"
+
+#: backend/options.php:80
+msgid "Email message"
+msgstr "Mensaje del correo electrónico"
+
+#: backend/options.php:73
+msgid "Email subject"
+msgstr "Asunto del correo"
+
+#: backend/options.php:125
+msgid "Email template (optional)"
+msgstr "Plantilla de correo (opcional)"
+
+#: backend/options.php:66
+msgid "Email: Send results copy (bcc) to these addresses"
+msgstr ""
+"Correo elecrónico: Enviar una copia de los resultados (bcc) a estas "
+"direcciones"
+
+#. Description of the plugin
+msgid ""
+"Embed a form on any page to generate a SEO report for any website + keyword "
+"and email it to the user."
+msgstr ""
+"Incrusta un formulario en una página para generar reporte de SEO para "
+"cualquier sitio web + palabra clave y enviarlo al usuario."
+
+#: backend/options.php:67
+msgid "Enter the admin email. Separate each email with a comma."
+msgstr ""
+"Ingresa el correo electrónico del administrador. Separa cada dirección de "
+"correo con una coma."
+
+#: backend/leads-management.php:233
+msgid "Export to CSV"
+msgstr "Exportar a CSV"
+
+#: frontend/checks/exact-keyword-an-image-filename.php:31
+msgid "Found exact keyword in an image file name"
+msgstr "Palabra clave exacta encontrada en el nombre de un archivo de imagen"
+
+#: backend/options.php:147
+msgid "General"
+msgstr ""
+
+#: views/welcome-page-content.php:18
+msgid ""
+"Get API keys: <br/>To show audit results, you need api keys from Moz and "
+"Google.  Add your keys to the <a href=\"%s\" target=\"_blank\">settings "
+"page</a>.  <a href=\"https://greenjaymedia.com/wp-site-auditor/how-to-get-"
+"api-keys/\" target=\"_blank\">Find out how to get your api keys here</a>"
+msgstr ""
+"Obtén claves API: <br/>Para mostrar los resultados de inspección, necesitas "
+"claves API de Moz y Google. Añade tus claves a la <a href=\"%s\" target="
+"\"_blank\">página de ajustes</a>.  <a href=\"https://greenjaymedia.com/wp-"
+"site-auditor/how-to-get-api-keys/\" target=\"_blank\">Descubre cómo obtener "
+"tus claves API aquí.</a>"
+
+#: backend/options.php:96
+msgid ""
+"Get your access id and secret key here: <a href=\"https://moz.com/products/"
+"api/keys\" target=\"_blank\">Get key</a> - <a href=\"https://greenjaymedia."
+"com/wp-site-auditor/how-to-get-api-keys/\" target=\"_blank\">Tutorial</a>"
+msgstr ""
+"Obten tu ID de acceso y clave secreta aquí: <a href=\"https://moz.com/"
+"products/api/keys\" target=\"_blank\">Obtener clave</a> - <a href=\"https://"
+"greenjaymedia.com/wp-site-auditor/how-to-get-api-keys/\" target=\"_blank"
+"\">Tutorial</a>"
+
+#: backend/options.php:89
+msgid ""
+"Get your API key here: <a href=\"https://console.cloud.google.com\" target="
+"\"_blank\">Get key</a> - <a href=\"https://greenjaymedia.com/wp-site-auditor/"
+"how-to-get-api-keys/\" target=\"_blank\">Tutorial</a>"
+msgstr ""
+"Obtén tu clave API: <a href=\"https://console.cloud.google.com\" target="
+"\"_blank\">Obtener clave</a> - <a href=\"https://greenjaymedia.com/wp-site-"
+"auditor/how-to-get-api-keys/\" target=\"_blank\">Tutorial</a>"
+
+#: views/frontend/site-audit-shortcode-views.php:140
+msgid "Good Signals"
+msgstr "Buenas Señales"
+
+#: backend/options.php:87
+msgid "Google PageSpeed Insights API key"
+msgstr "Clave API de Google PageSpeed Insights"
+
+#. Author of the plugin
+msgid "Green Jay Media"
+msgstr ""
+
+#: frontend/checks/exact-keyWord-in-h1h2.php:8
+msgid "HEADING TAGS"
+msgstr "ETIQUETAS DE ENCABEZAMIENTO"
+
+#: backend/options.php:75
+msgid "Here's your report"
+msgstr "Aquí está tu reporte"
+
+#: frontend/checks/validatesite-accessible-via-https.php:27
+msgid ""
+"Highly recommend adding an SSL to your domain for added security and seo "
+"benefit (https)."
+msgstr ""
+"Es muy recomendado añadir un certificado SSL a tu dominio para la más "
+"seguridad y la mejora de tu SEO (https)."
+
+#. Author URI of the plugin
+msgid "https://greenjaymedia.com"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://greenjaymedia.com/wp-site-auditor/"
+msgstr ""
+
+#: frontend/checks/every-image-needs-alt-tag.php:9
+msgid "IMAGE ANALYSIS"
+msgstr "ANÁLISIS DE LA IMAGEN"
+
+#: inc/site-audit-shortcode.php:142
+msgid "img created"
+msgstr "img creada"
+
+#: views/frontend/site-audit-shortcode-views.php:144
+msgid "Issues Found"
+msgstr "Problemas Encontrados"
+
+#: views/frontend/site-audit-shortcode-views.php:20
+#: views/frontend/site-audit-shortcode-views.php:126
+msgid "Keyword"
+msgstr "Palabra clave"
+
+#: views/frontend/site-audit-shortcode-views.php:122
+msgid "Landing Page Audit"
+msgstr "Inspección de Página de Destino"
+
+#: backend/leads-management.php:103
+msgid "Leads"
+msgstr "Prospectos"
+
+#: backend/options.php:126
+msgid ""
+"Leave this empty if you want to use our default email template. "
+"Placeholders: {result_url}, {sdt_logo}, {sdt_message}"
+msgstr ""
+"Deja este campo vacío si quieres usar nuestra plantilla de correo por "
+"defecto. Marcadores de posición: {result_url}, {sdt_logo}, {sdt_message}"
+
+#: backend/options.php:53
+msgid "Logo"
+msgstr "Logo"
+
+#: backend/options.php:59
+msgid "Main color"
+msgstr "Color principal"
+
+#: frontend/checks/server-uses-compression.php:21
+msgid "MOBILE ANALYSIS"
+msgstr "ANÁLISIS MÓVIL"
+
+#: backend/options.php:94
+msgid "Moz API: Access ID"
+msgstr "Moz API: ID de acceso"
+
+#: backend/options.php:101
+msgid "Moz API: Secret ID Key"
+msgstr "Moz API: Clave ID secreta"
+
+#: frontend/checks/moz-domain-authority25.php:24
+msgid "Moz Domain Authority Missing."
+msgstr "Falta la Autoridad de Dominio de Moz."
+
+#: frontend/checks/moz-Page-authority26.php:30
+#: frontend/checks/moz-Page-authority26.php:33
+msgid "Moz Page Authority Missing."
+msgstr "Falta la Autoridad de Página de Moz."
+
+#: views/frontend/site-audit-shortcode-views.php:27
+msgid "Name"
+msgstr "Nombre"
+
+#: frontend/checks/moz-domain-authority25.php:10
+msgid "Page Authority"
+msgstr "Autoridad de Página"
+
+#: views/frontend/site-audit-shortcode-views.php:148
+msgid "Page Grade"
+msgstr "Calificación de la Página"
+
+#: frontend/checks/moz-Page-authority26.php:9
+msgid "PAGE LINK ANALYSIS"
+msgstr "ANÁLISIS DEL ENLACE DE PÁGINA"
+
+#: frontend/checks/page-data-google.php:33
+msgid "PAGE SIZE"
+msgstr "TAMAÑO DE PÁGINA"
+
+#: backend/options.php:60
+msgid "Pick a color for the pdf report (default: #000)."
+msgstr "Elige un color para el reporte PDF (por defecto: #000)"
+
+#: frontend/checks/how-many-assets-were-loaded.php:38
+msgid "Reduce the number of page requests to 150 or less."
+msgstr "Reduce el número de peticiones de página a 150 o menos."
+
+#: frontend/checks/how-many-assets-were-loaded.php:34
+msgid ""
+"Reduce the number of page requests to improve load speed. 150 or less is ok. "
+"The lower the number, the better."
+msgstr ""
+"Reduce el número de peticiones de página para mejorar la velocidad de carga. "
+"150 o menos está bien. Cuanto menor sea el número, mejor."
+
+#: frontend/checks/size-page.php:33
+msgid "Reduce the page size"
+msgstr "Reduce el tamaño de la página"
+
+#: frontend/checks/size-page.php:29
+msgid "Reduce the page size to less than 2.5MB, for better load speed."
+msgstr ""
+"Reduce el tamaño de la página a menos de 2.5MB para mejor velocidad de carga."
+
+#: frontend/checks/title-tag-has70.php:12
+msgid "Reduce the title tag to less than 70 characters"
+msgstr "Reduce la etiqueta del título a menos de 70 caracteres"
+
+#: frontend/checks/no-flash-found.php:31
+msgid "Remove Flash code from page."
+msgstr "Borrar el código Flash de la página."
+
+#: frontend/checks/page-data-google.php:43
+msgid "REQUESTS"
+msgstr "SOLICITUDES"
+
+#: backend/options.php:108
+msgid "Results page"
+msgstr "Página de resultados"
+
+#: backend/options.php:132
+msgid "Results: footer content"
+msgstr "Resultados: Contenido del pie de página"
+
+#: backend/options.php:139
+msgid "Results: header content"
+msgstr "Resultados: Contenido de la cabecera"
+
+#: frontend/checks/page-data-google.php:21
+msgid "SCORE"
+msgstr "PUNTUACIÓN"
+
+#: frontend/checks/server-uses-compression.php:59
+msgid "Server does not use GZIP compression"
+msgstr "El server no usa la compresión GZIP"
+
+#: backend/options.php:109
+msgid ""
+"Set the page where the shortcode results is located. This page must be "
+"published."
+msgstr ""
+"Establece la página donde está el shortcode de resultados. Esta página debe "
+"ser pública."
+
+#: backend/options.php:24
+msgid "Settings"
+msgstr "Ajustes"
+
+#: backend/leads-management.php:30
+msgid "Site Audits"
+msgstr "Inspecciones del Sitio"
+
+#: frontend/checks/page-data-google.php:8
+msgid "SPEED"
+msgstr "VELOCIDAD"
+
+#: views/frontend/site-audit-shortcode-views.php:41
+msgid "Submit"
+msgstr "Enviar"
+
+#: frontend/checks/create-checklist-of-tasks-from-the-failed-testsabove.php:8
+msgid "TASKS"
+msgstr "TAREAS"
+
+#: frontend/checks/html-ratio-is-too-low25.php:21
+#, php-format
+msgid "Text to HTML ratio should be > %d%%."
+msgstr "La relación entre el texto y el HTML debería ser > %d%%."
+
+#: views/welcome-page-content.php:4
+msgid ""
+"Thank you for installing our plugin. <a href=\"https://greenjaymedia.com/"
+"contact-us/\" target=\"_blank\">Contact us</a> if you need help with the "
+"setup or have any questions."
+msgstr ""
+"Gracias por instalar el plugin. <a href=\"https://greenjaymedia.com/contact-"
+"us/\" target=\"_blank\">Contáctanos</a> si necesitas ayuda con la "
+"configuración o cualquier otra duda."
+
+#: frontend/checks/page-data-google.php:46
+msgid "the assets loaded is unavailable"
+msgstr "los assets cargados no están disponibles"
+
+#: frontend/checks/how-many-assets-were-loaded.php:27
+msgid "The assets number is acceptable."
+msgstr "El número de assets es aceptable."
+
+#: frontend/checks/how-many-assets-were-loaded.php:16
+msgid "The assets number is excellent."
+msgstr "El número de assets es excelente."
+
+#: frontend/checks/page-data-google.php:25
+msgid "the load time is unavailable"
+msgstr "el tiempo de carga no está disponible"
+
+#: frontend/checks/size-page.php:23
+msgid "the page size is ok"
+msgstr "el tamaño de la página es aceptable"
+
+#: frontend/checks/page-data-google.php:37
+msgid "The page size is unavailable."
+msgstr "El tamaño de la página no está disponible."
+
+#: frontend/checks/size-page.php:40 frontend/checks/size-page.php:44
+msgid "the page size is unavilable"
+msgstr "el tamaño de la página no está disponible"
+
+#: frontend/checks/how-fast-it-loaded.php:26
+msgid "The page speed is average."
+msgstr "La velocidad de la página es media."
+
+#: frontend/checks/how-fast-it-loaded.php:17
+msgid "The page speed is fast."
+msgstr "La velocidad de la página es rápida."
+
+#: frontend/checks/how-fast-it-loaded.php:35
+msgid "The page speed is very low"
+msgstr "La velocidad de la página es muy baja"
+
+#: frontend/checks/this-domain-is-years-old.php:18
+msgid "This domain is only missing old"
+msgstr "A este dominio sólo le falta el antiguo"
+
+#: frontend/check.php:124 frontend/check.php:206
+#: inc/site-audit-shortcode.php:203
+#: views/frontend/site-audit-shortcode-views.php:100
+msgid "This option not found"
+msgstr "Esta opción no se ha encontrado"
+
+#: frontend/checks/found31-links-unique-domains.php:26
+msgid "This page has no backlinks."
+msgstr "Esta página no tiene backlinks."
+
+#: frontend/checks/moz-this-page-has3outbound-links.php:25
+msgid "This page has no dofollow backlinks."
+msgstr "Esta página tiene links dofollow."
+
+#: frontend/checks/how-fast-it-loaded.php:31
+msgid "This page is very slow."
+msgstr "Esta página es muy lenta."
+
+#: frontend/checks/keyword-begins-title.php:8
+msgid "TITLE TAG"
+msgstr "ETIQUETA DE TÍTULO"
+
+#: frontend/checks/top-5-word-used.php:715
+msgid "TOP 5 WORDS USED"
+msgstr "TOP 5 DE PALABRAS USADAS"
+
+#: frontend/checks/found31-links-unique-domains.php:11
+msgid "Total Backlinks"
+msgstr "Total de backlinks"
+
+#: views/frontend/site-audit-shortcode-views.php:13
+msgid "URL"
+msgstr "URL"
+
+#: frontend/checks/url-is-seo-friendly.php:30
+#: frontend/checks/url-is-seo-friendly.php:40
+msgid "URL is SEO friendly."
+msgstr "La URL es adecuada para SEO."
+
+#: views/welcome-page-content.php:16
+msgid ""
+"Use these shortcodes: <br/>[site_audit layout=\"horizontal\"] to display the "
+"site audit form with horizontal layout<br/>[site_audit layout=\"vertical\"] "
+"to display the site audit form with vertical layout<br/>[site_audit_result] "
+"to display the site audit results. The results page must be a separate page, "
+"not on same page as form."
+msgstr ""
+"Usa estos shortcodes: <br/>[site_audit layout=\"horizontal\"] para mostrar "
+"el formulario de inspección del sitio con diseño horizontal.<br/>[site_audit "
+"layout=\"vertical\"] para mostrar el formulario de inspección del sitio con "
+"diseño vertical.<br/>[site_audit_result] para mostrar los resultados de la "
+"inspección del sitio. La página de resultados debe ser una página separada, "
+"no la misma página que el formulario."
+
+#: views/welcome-page-content.php:14
+msgid ""
+"Use these shortcodes: <br/>[site_audit layout=\"horizontal\"] to display the "
+"site audit form with horizontal layout<br/>[site_audit layout=\"vertical\"] "
+"to display the site audit form with vertical layout<br/>Use "
+"[site_audit_result] to display the site audit results, the results page must "
+"be a separate page, not on same page as form"
+msgstr ""
+"Usa estos shortcodes: <br/>[site_audit layout=\"horizontal\"] para mostrar "
+"el formulario de inspección del sitio con diseño horizontal.<br/>[site_audit "
+"layout=\"vertical\"] para mostrar el formulario de inspección del sitio con "
+"diseño vertical.<br/>Usa [site_audit_result] para mostrar los resultados de "
+"la inspección del sitio. La página de resultados debe ser una página "
+"separada, no la misma página que el formulario"
+
+#: frontend/checks/html-is-not-w3c-validated.php:40
+msgid "Validate your html at validator.w3.org."
+msgstr "Valida tu html en validator.w3.org."
+
+#: views/backend/metabox.php:110
+msgid "View results"
+msgstr "Ver resultados"
+
+#: views/frontend/site-audit-shortcode-views.php:66
+msgid ""
+"Warning: Please add your API keys in the settings page. The form will not "
+"work without them."
+msgstr ""
+"Advertencia: Por favor, añade tus claves API en la página de ajustes. El "
+"formulario no funcionará sin ellas."
+
+#: inc/site-audit-shortcode.php:36
+msgid "We sent you an email with the results"
+msgstr "Te hemos enviado un correo electrónico con los resultados"
+
+#: backend/options.php:119
+msgid ""
+"We show the report when the form is submitted, activate this option if you "
+"want to display the report only in the email sent to the user"
+msgstr ""
+"Mostramos el reporte cuando se envía el formulario; activa esta opción si "
+"quieres mostrar el reporte solo en el correo enviado al usuario"
+
+#. Name of the plugin
+msgid "WP Site Auditor"
+msgstr "WP Site Auditor"
+
+#: backend/options.php:133
+msgid "Write the html that will be in the results footer"
+msgstr "Escribe el HTML que aparecerá en el pie de página de los resultados"
+
+#: backend/options.php:74
+msgid "Write the message that will appear in the mail"
+msgstr "Escribe el mensaje que aparecerá en el correo"
+
+#: backend/options.php:81
+msgid ""
+"Write the message that will appear in the mail. Use {result_url} as the URL "
+"to open the report."
+msgstr ""
+"Escribe el mensaje que aparecerá en el correo electrónico. Usa {result_url} "
+"como la URL para abrir el reporte."
+
+#: backend/options.php:140
+msgid ""
+"Write the message that will be at the top right section in the results header"
+msgstr "Escribe el correo que aparecerá en"
+
+#: views/welcome-page-content.php:25
+msgid ""
+"You are using the Free plugin. Available features:<br>You can show the site "
+"audit form<br>When the user fills the form, we send the site audit results "
+"to his email address<br>We show our \"powered by\" logo (no link) below the "
+"site audit form and below the email containing the results."
+msgstr ""
+"Estás usando el Plugin Gratuito. Características disponibles:<br>Puedes "
+"mostrar el formulario de inspección del sitio.<br>Cuando el usuario rellena "
+"el formulario, enviamos los resultados de inspección del sitio a su "
+"dirección de correo electrónico.<br>Mostramos nuestro logo de desarrollador "
+"(sin link) debajo del formulario de inspección del sitio y debajo del correo "
+"electrónico que contiene los resultados."
+
+#~ msgctxt "taxonomy general name"
+#~ msgid "Status"
+#~ msgstr "Estados"
+
+#~ msgctxt "taxonomy singular name"
+#~ msgid "Status"
+#~ msgstr "Estado"
+
+#~ msgid "Search Status"
+#~ msgstr "Estado de la búsqueda"
+
+#~ msgid "All Status"
+#~ msgstr "Todos los estados"
+
+#~ msgid "Parent Status"
+#~ msgstr "Estado Padre"
+
+#~ msgid "Parent Status:"
+#~ msgstr "Estado Padre:"
+
+#~ msgid "Edit Status"
+#~ msgstr "Editar Estado"
+
+#~ msgid "Update Status"
+#~ msgstr "Actualizar Estado"
+
+#~ msgid "Add New Status"
+#~ msgstr "Añadir Nuevo Estado"
+
+#~ msgid "New Status Name"
+#~ msgstr "Nombre del Nuevo Estado"
+
+#~ msgid "Status"
+#~ msgstr "Estado"
+
+#~ msgctxt "Post type general name"
+#~ msgid "Submissions"
+#~ msgstr "Envíos"
+
+#~ msgctxt "Post type singular name"
+#~ msgid "Submission"
+#~ msgstr "Envío"
+
+#~ msgctxt "Admin Menu text"
+#~ msgid "Submissions"
+#~ msgstr "Envíos"
+
+#~ msgctxt "Add New on Toolbar"
+#~ msgid "Submission"
+#~ msgstr "Envío"
+
+#~ msgid "Add New"
+#~ msgstr "Añadir Nuevo"
+
+#~ msgid "Add New Submission"
+#~ msgstr "Añadir Nuevo Envío"
+
+#~ msgid "New Submission"
+#~ msgstr "Nuevo Envío"
+
+#~ msgid "Edit Submission"
+#~ msgstr "Editar Envío"
+
+#~ msgid "View Submission"
+#~ msgstr "Ver Envío"
+
+#~ msgid "All Submissions"
+#~ msgstr "Todos los Envíos"
+
+#~ msgid "Search Submissions"
+#~ msgstr "Buscar Envíos"
+
+#~ msgid "Parent Submissions:"
+#~ msgstr "Envíos Padre:"
+
+#~ msgid "No books found."
+#~ msgstr "No se encontraron libros."
+
+#~ msgid "No books found in Trash."
+#~ msgstr "No se encontraron libros en Papelera."
+
+#~ msgctxt ""
+#~ "Overrides the “Featured Image” phrase for this post type. Added in 4.3"
+#~ msgid "Submission Cover Image"
+#~ msgstr "Imagen de portada del envío"
+
+#~ msgctxt ""
+#~ "Overrides the “Set featured image” phrase for this post type. Added in 4.3"
+#~ msgid "Set cover image"
+#~ msgstr "Establecer imagen de portada"
+
+#~ msgctxt ""
+#~ "Overrides the “Remove featured image” phrase for this post type. Added in "
+#~ "4.3"
+#~ msgid "Remove cover image"
+#~ msgstr "Quitar imagen de portada"
+
+#~ msgctxt ""
+#~ "Overrides the “Use as featured image” phrase for this post type. Added in "
+#~ "4.3"
+#~ msgid "Use as cover image"
+#~ msgstr "Usar como imagen de portada"
+
+#~ msgctxt ""
+#~ "The post type archive label used in nav menus. Default “Post Archives”. "
+#~ "Added in 4.4"
+#~ msgid "Submission archives"
+#~ msgstr "Archivo de envíos"
+
+#~ msgctxt ""
+#~ "Overrides the “Insert into post”/”Insert into page” phrase (used when "
+#~ "inserting media into a post). Added in 4.4"
+#~ msgid "Insert into book"
+#~ msgstr "Insertar en libro"
+
+#~ msgctxt ""
+#~ "Overrides the “Uploaded to this post”/”Uploaded to this page” phrase "
+#~ "(used when viewing media attached to a post). Added in 4.4"
+#~ msgid "Uploaded to this book"
+#~ msgstr "Subido a este libro"
+
+#~ msgctxt ""
+#~ "Screen reader text for the filter links heading on the post type listing "
+#~ "screen. Default “Filter posts list”/”Filter pages list”. Added in 4.4"
+#~ msgid "Filter books list"
+#~ msgstr "Filtrar la lista de libros"
+
+#~ msgctxt ""
+#~ "Screen reader text for the pagination heading on the post type listing "
+#~ "screen. Default “Posts list navigation”/”Pages list navigation”. Added in "
+#~ "4.4"
+#~ msgid "Submissions list navigation"
+#~ msgstr "Navegación por la lista de envíos"
+
+#~ msgctxt ""
+#~ "Screen reader text for the items list heading on the post type listing "
+#~ "screen. Default “Posts list”/”Pages list”. Added in 4.4"
+#~ msgid "Submissions list"
+#~ msgstr "Lista de envíos"
+
+#~ msgid "Site auditor"
+#~ msgstr "Inspector del sitio"
+
+#~ msgid "Null if domain available"
+#~ msgstr "Nulo si el dominio está disponible"
+
+#~ msgid "Try premium plugin for FREE - 14 Days"
+#~ msgstr "Prueba el plugin premium GRATIS - 14 Días"
+
+#~ msgid ""
+#~ "Please install the free plugin <b>\"ReduxFramework\"</b>. It´s required "
+#~ "for the settings page. <a href=\"%s\" target=\"_blank\" class=\"button "
+#~ "install-plugin-trigger\">Click here</a>"
+#~ msgstr ""
+#~ "Por favor, instala el plugin <b>\"ReduxFramework\"</b>. Se requiere para "
+#~ "la página de ajustes. <a href=\"%s\" target=\"_blank\" class=\"button "
+#~ "install-plugin-trigger\">Haz clic aquí.</a>"

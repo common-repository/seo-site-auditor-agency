@@ -1,0 +1,82 @@
+.audit-powered-by {
+	font-size: 12px;
+	margin: 12px 0 0 0;
+
+}
+.audit-powered-by img {
+	height: 33px !important;
+	width: auto !important;
+}
+#sdt-pdf-iframe {
+	/*min-width:1000px;*/ 
+	width: 100%; 
+	height:800px;
+	display: none;
+	background: white;
+    border: 1px solid;
+    box-sizing: border-box;
+    padding: 15px;
+}
+.audit-form-field-wrapper {
+    margin-bottom: 10px;
+}
+.audit-results-emailed {
+	background-color: green !important;
+    color: white !important;
+    padding: 10px !important;
+    margin: 10px 0 !important;
+	clear: both;
+}
+#audit-form {
+    width: 100%;
+    padding:25px;
+	background-color: #dbdbdb;
+}
+#audit-form.horizontal .audit-form-field-wrapper,
+#audit-form.horizontal button {
+    width: 100%;
+    max-width: 200px;
+    float: left;
+    padding: 0 5px;
+}
+
+form#audit-form.horizontal {
+    max-width: 820px;
+    overflow: auto;
+    padding: 10px;
+	margin: 0 auto;
+}
+
+#audit-form.horizontal button {
+    padding: 10px;
+    margin-top: 25px;
+}
+#audit-form label {
+    display: block;
+}
+
+#audit-form input {
+	background-color:#fff;
+}
+#audit-form {
+    text-align: center;
+}
+#audit-form .loader {
+    padding: 0 !important;
+    margin: 0 auto;
+    display: block;
+    clear: both;
+    max-width: 150px;
+}
+#audit-form button {
+	color:#fff;
+	border:1px solid #000;
+	background-color:#1b75bc;
+}
+
+#audit-form input {
+    background-color: #fff;
+    padding: 4px;
+    width: 100%;
+	color: black;
+}
